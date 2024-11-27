@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f115143605e0f6941adaaa62293f9cf1, type: 3}
+  m_Name: G3_MakeUp
+  m_EditorClassIdentifier: 
+  uniqueID: G3
+  progressionObjectPrefabs:
+  - {fileID: 4570445855713177659, guid: 0777e6be299ad874cbcf42ce51202444, type: 3}
+  - {fileID: 893832405363883101, guid: 95489ac92809b9a47b2c3b78642832e7, type: 3}
+  - {fileID: 4805090254580289064, guid: e121c931a4f8537459e02d23944aac71, type: 3}
+  - {fileID: 295105586244769377, guid: 58a7f141fe1d559498f3b2536167e5de, type: 3}
+  - {fileID: 6284179682889679153, guid: a3c05b10213448a469d49e60d1069698, type: 3}
+  uiTextures:
+  - {fileID: 21300000, guid: 62650bfae65eecb42a6f79cda286cb1c, type: 3}
+  - {fileID: 21300000, guid: a185e3d25dfeb774b94c89e8e5d627b8, type: 3}
+  - {fileID: 21300000, guid: 70825caa3e3b0fa4e8f385252756343f, type: 3}
+  - {fileID: 21300000, guid: 481813560a2952544a37cbca5f4ecaf2, type: 3}
+  - {fileID: 21300000, guid: 96b2e4ab985e84b438e7313d56ff4d50, type: 3}

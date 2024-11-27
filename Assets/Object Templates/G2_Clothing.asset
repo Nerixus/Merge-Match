@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f115143605e0f6941adaaa62293f9cf1, type: 3}
+  m_Name: G2_Clothing
+  m_EditorClassIdentifier: 
+  uniqueID: G2
+  progressionObjectPrefabs:
+  - {fileID: 8620842404295312331, guid: 82983f292c28c9b4b9449a9a3d7cdeac, type: 3}
+  - {fileID: 1065103618123591325, guid: 5ca2347e2f76d0c4d80b33037c6864e3, type: 3}
+  - {fileID: 4938202493003341987, guid: cc25ee43037e9c04a9e1733e43c259c5, type: 3}
+  - {fileID: 1178820093799465551, guid: c15cf7e6f1c4b3b46a1d0cf37342e26b, type: 3}
+  - {fileID: 1547479585695251727, guid: fbf44a1c9f116704d83d28a8205d6f68, type: 3}
+  uiTextures:
+  - {fileID: 21300000, guid: e027316761c3e1647bb6f9a45bd16ef0, type: 3}
+  - {fileID: 21300000, guid: 6794646eae56bc44a9397b19beafad83, type: 3}
+  - {fileID: 21300000, guid: 342082b63318d1b42bff6b17d727ea1b, type: 3}
+  - {fileID: 21300000, guid: 064d382760706b44c872c503bf791adc, type: 3}
+  - {fileID: 21300000, guid: fbffbeeb3b284a6468d4b4dc6d4c6d5e, type: 3}
